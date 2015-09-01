@@ -1,0 +1,67 @@
+
+@font-face {
+    font-family: robotocondensed;
+    src: url(../fonts/roboto-condensed-webfont.eot);
+    src: url(../fonts/roboto-condensed-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto-condensed-webfont.woff) format('woff'),
+    url(../fonts/roboto-condensed-webfont.ttf) format('truetype'),
+    url(../fonts/roboto-condensed-webfont.svg#robotocondensed) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: robotoregular;
+    src: url(../fonts/roboto-regular-webfont.eot);
+    src: url(../fonts/roboto-regular-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto-regular-webfont.woff) format('woff'),
+    url(../fonts/roboto-regular-webfont.ttf) format('truetype'),
+    url(../fonts/roboto-regular-webfont.svg#robotoregular) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: robotothin;
+    src: url(../fonts/roboto-thin-webfont.eot);
+    src: url(../fonts/roboto-thin-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto-thin-webfont.woff) format('woff'),
+    url(../fonts/roboto-thin-webfont.ttf) format('truetype'),
+    url(../fonts/roboto-thin-webfont.svg#robotothin) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: robotolight;
+    src: url(../fonts/roboto-light-webfont.eot);
+    src: url(../fonts/roboto-light-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto-light-webfont.woff) format('woff'),
+    url(../fonts/roboto-light-webfont.ttf) format('truetype'),
+    url(../fonts/roboto-light-webfont.svg#robotolight) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+/*@font-face {*/
+    /*font-family: 'noto_sansbold';*/
+    /*src: url('../fonts/notosans-bold-webfont-webfont.eot');*/
+    /*src: url('../fonts/notosans-bold-webfont-webfont.eot?#iefix') format('embedded-opentype'),*/
+    /*url('../fonts/notosans-bold-webfont-webfont.woff2') format('woff2'),*/
+    /*url('../fonts/notosans-bold-webfont-webfont.woff') format('woff'),*/
+    /*url('../fonts/notosans-bold-webfont-webfont.ttf') format('truetype'),*/
+    /*url('../fonts/notosans-bold-webfont-webfont.svg#noto_sansbold') format('svg');*/
+    /*font-weight: normal;*/
+    /*font-style: normal;*/
+
+/*}*/
+@font-face {
+    font-family: 'noto_sansregular';
+    src: url('../fonts/notosans-regular-webfont.eot');
+    src: url('../fonts/notosans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/notosans-regular-webfont.woff2') format('woff2'),
+    url('../fonts/notosans-regular-webfont.woff') format('woff'),
+    url('../fonts/notosans-regular-webfont.ttf') format('truetype'),
+    url('../fonts/notosans-regular-webfont.svg#noto_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

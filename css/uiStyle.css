@@ -1,0 +1,154 @@
+#mainWrapper{
+
+}
+#mainWrapper .banner{
+    background: url("../images/indexBanner.jpg") no-repeat center;
+    background-size: cover;
+}
+#mainWrapper .banner .bannerImg{
+    width: 100%;
+    display: block;
+    height: auto;
+}
+#mainWrapper .headerMain{
+    background: #193661;
+}
+#mainWrapper .header{
+    padding: 20px 2.5%;
+}
+#mainWrapper .header .logo{
+    width: 130px;
+    display: block;
+    height: auto;
+}
+#mainWrapper .header .nav{
+    margin-top: 15px;
+    font-family: robotolight;
+}
+#mainWrapper .header .nav a{
+    display: inline-block;
+    margin-left: 50px;
+    color: #f3f3f3;
+}
+#mainWrapper .header .nav a:first-of-type{
+    margin-left: 0;
+}
+#mainWrapper .banner .searchBoxMain{
+    padding: 100px 0 270px 0;
+}
+#mainWrapper .banner .searchBoxMain .searchTxt{
+    margin-bottom: 30px;
+    color: #f3f3f3;
+}
+#mainWrapper .searchBox{
+    width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2);
+    padding-left: 20px;
+    background: #ffffff;
+}
+#mainWrapper .searchBox input{
+    font-family: robotolight;
+    width: 84%;
+    padding: 10px 0;
+    color: #7a7a7a;
+}
+#mainWrapper .searchBox .icon{
+    width: 16%;
+    background: #f5873f;
+    height: 100%;
+    padding: 12px 0;
+    cursor: pointer;
+    text-align: center;
+}
+#mainWrapper .searchBox .icon img{
+    display: inline-block;
+    width: 25px;
+}
+
+/*....... How it work section .........*/
+.mainSection.howItWorkMain{
+    background: #e9e9e9;
+}
+.cardSection.howItWork{
+    margin-top: 40px;
+}
+.cardSection.howItWork .icon{
+
+}
+.cardSection.howItWork .icon img{
+    width: 55px;
+    margin: 0 auto;
+    height: auto;
+    display: block;
+}
+
+/*............... lawyers List section ......... */
+.mainSection.searchBoxSec{
+    /*background: #ffffff;*/
+}
+
+.mainSection.lawyerFilter{
+    background: #b4b4b4;
+}
+
+.mainSection.careMost{
+    background: #e9e9e9;
+}
+.mainSection.careMost .tags{
+
+}
+.mainSection.careMost .tags li{
+    display: inline-block;
+    padding: 6px 20px;
+    background: #ffffff;
+    margin-right: 12px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.mainSection.careMost .tags li.selected{
+    background: #f5873f;
+    color: #ffffff;
+}
+
+.lawyersMain .viewOpt{
+
+}
+.lawyersMain .viewOpt a{
+    margin-left: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.lawyersMain .viewOpt a img{
+    display: block;
+    width: 24px;
+    height: auto;
+}
+
+.lawyersMain .lawyersHeader{
+    padding-top: 30px;
+}
+.lawyersMain .lawyersTags{
+
+}
+#lawyersMap{
+    width: 100%;
+    height: 400px;
+}
+.lawyersMain .lawyersTags ul{
+
+}
+.lawyersMain .lawyersTags ul li{
+    width: 85px;
+    padding: 5px 0 5px 12px;
+    background: #2dceba;
+    color: #ffffff;
+    border-radius: 20px;
+    display: inline-block;
+    margin-right: 12px;
+}
+.lawyersMain .lawyersTags ul li .close{
+    padding-right: 12px;
+    cursor: pointer;
+}
+
